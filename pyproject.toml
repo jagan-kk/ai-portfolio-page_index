@@ -10,4 +10,5 @@ dependencies = [
     "groq>=1.4.0",
     "pageindex>=0.2.8",
     "python-dotenv>=1.2.2",
+    "gunicorn"
 ]
