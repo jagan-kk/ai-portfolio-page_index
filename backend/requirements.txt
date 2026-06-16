@@ -3,4 +3,4 @@ flask-cors
 groq
 python-dotenv
 pageindex
-uvicorn
+gunicorn
